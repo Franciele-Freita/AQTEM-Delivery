@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+:root{
+
+    --Pink: #51A8B1;
+    --Gray-70: #51A8B1a6;
+    --background: #f8f8f8;
+    --Pink70: #51A8B1e1;
+    --Pink25: #51A8B13d;
+    --Gray: #373737;
+    --Gray25: #37373746;
+}    
+header{
+    background-color: var(--Pink);
+    background-repeat: repeat-x;
+}
+img{
+    background-color: var(--Pink);
+}
+
+
